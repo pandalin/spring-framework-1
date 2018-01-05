@@ -12,7 +12,7 @@ pluginManagement {
 // Workaround for https://github.com/Kotlin/dokka/issues/146
 pluginManagement {
 	repositories {
-		jcenter()
+		//jcenter()
 		gradlePluginPortal()
 	}
 }
